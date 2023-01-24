@@ -14,13 +14,11 @@
   </a>&nbsp;
 
 
-  <!-- <a href="https://farahelahmadi.me">
-     <img  src="https://img.shields.io/badge/website-C3897E?style=for-the-badge&logo=about.me&logoColor=white" alt="website">
-  </a> -->
+
 
 <p/>
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/GW1919">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=GW1919&hide=stars&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Gage's Github Stats">
 </a>
 </p>
@@ -33,9 +31,9 @@
 
 <p align="justify">I graduated from The University of Alabama in 2020 with a Bachelors Degree in Computer Science, with minors in both Mathematics and Creative Media.</p>
 
-<p align="justify">Since graduating, I have been working in the space and science division at Southwest Research institute, where my I have been working on various NASA space missions. I work on a variety of projects ranging from the manufacturing software to science data manipulation.</p>
+<p align="justify">Since graduating, I have been working in the space and science division at Southwest Research institute on various NASA space missions. I work on a variety of projects ranging from the manufacturing software to science data manipulation.</p>
 
-<p align="justify">In my spare time, I have picked up a major interest in blockchain development. I have worked freelance on dozens of crypto and NFT projects on both the Ethereum and Solana blockchains. I continue to learn more about the blockchain technologies every day.</p>
+<p align="justify">In my spare time, I have fostered a major interest in blockchain development. I have worked freelance on dozens of crypto and NFT projects on both the Ethereum and Solana blockchains. I continue to learn more about the blockchain technologies every day.</p>
 
 <p align="justify">Feel free to reach out to me if you have any questions or any interest in working together!</p>
 
